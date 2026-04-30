@@ -1,5 +1,5 @@
 <img src="https://placehold.jp/24/6f9882/6f9882/1500x10.png?text=%20" width="100%" height="3px" />
-<img src="readme-theme-image.png" align="right" width="320" />
+<img src="readme-theme-image.png" align="right" width="310" />
 
 ### hey, i'm **mithun paramathasan**
 
